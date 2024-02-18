@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:black;
+    color : white
+    ;
+}
+
+.home{
+    width: 400px;
+    height:200px;
+}
+#image1{
+    width: 400px;
+}
+
+#image2{
+width: 500px;
+}
+#image3{
+    position: absolute;
+    top:190px;
+    left: 400px;  
+    width: 800px;
+}
+#table{
+    position: absolute;
+    top: 510px;
+    left:650px     
+}
+
+#kitchen{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    
+}
+#bathroom{
+    position: relative;
+    height: 400px;
+    right: 80px;
+}
+#carpet{
+    width: 1000px;
+    height: 500px;
+
+}
